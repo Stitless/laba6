@@ -7,7 +7,7 @@
 using namespace std;
 //test test
 int main()
-{
+{ // test 2
 	const int r = 9, k = 9;
 	int A[r][k];
 	float B[36];
