@@ -5,7 +5,7 @@
 #include "math.h"
 
 using namespace std;
-
+//test test
 int main()
 {
 	const int r = 9, k = 9;
